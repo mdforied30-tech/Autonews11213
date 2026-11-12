@@ -1,0 +1,10 @@
+{
+  "name": "auto-news-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "অটো নিউজ কার্ড — খবরের লিংক থেকে নিউজ ফটোকার্ড তৈরির টুল",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "netlify dev"
+  }
+}
